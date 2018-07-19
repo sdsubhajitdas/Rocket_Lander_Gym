@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='rocket_lander_gym',
       version='0.1',
-      url='http://github.com/jeetu95/rocket',
+      url='https://github.com/Jeetu95/Rocket_Lander_Gym',
       author='Subhajit Das',
       author_email='jeetudas95@gmail.com',
       description='Rocket Lander',
