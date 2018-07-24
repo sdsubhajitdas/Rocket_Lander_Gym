@@ -58,4 +58,4 @@ python setup.py install
 ```
 This should resolve the problem.
 
-#####Thank you. If there is any other problem then please open an issue I will try my best to find a solution and update FAQ section.
+##### Thank you. If there is any other problem then please open an issue I will try my best to find a solution and update FAQ section.
